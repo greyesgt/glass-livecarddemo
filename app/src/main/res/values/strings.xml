@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleGlassLiveCard</string>
+    <string name="title_activity_live_card_service">Hello World LiveCard</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_switch">Switch Mode</string>
+    <string name="no_conversation">No conversation</string>
+    <string name="in_conversation">Conversation</string>
+</resources>
